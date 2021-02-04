@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Internet of Things, University of Science and Technology Beijing, 2015
-* M.Sc. in Artificial Intelligence, The University of Edinburgh, 2016
-* Ph.D in Computer Science, University of Leicester, 2018-2023 (expected)
+* B.Sc. in Computer Science, Ningbo Institute of Technology, Zhejiang University, 2017
+* M.Sc. in Computer Science, University of Leicester, 2020
+* Ph.D in Computer Science, University of Leicester, 2020 - present
 
 Work experience
 ======
