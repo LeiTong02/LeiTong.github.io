@@ -10,13 +10,13 @@ redirect_from:
 ---
 2020-2021
 ======
-* CO1109 Business and Financial Computing
-* CO7218 Financial Services Information Systems
-* CO3099 Foundations of Cybersecurity
+* CO7514 Service-Oriented Architectures
+* CO7002 Analysis and Design of Algorithms 
+* CO1105 Introduction to Object Oriented Programming 
 
 2019-2020
 ======
-* CO3091 Computational Intelligence and Software Engineering
-* CO7506 System-Re-engineering
-* CO7507 Generative Development 
-* FS0023 STEM Foundation Year Lab-Physics
+* CO2102 Databases and Domain Modelling
+* CO7508 Software Measurement and Quality Assurance
+* CO3101 Computers, Society & Professionalism
+* CO3105 C++ Programming
