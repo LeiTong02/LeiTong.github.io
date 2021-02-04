@@ -15,25 +15,26 @@ Education
 * M.Sc. in Computer Science, University of Leicester, 2020
 * Ph.D in Computer Science, University of Leicester, 2020 - present
 
+<!---
 Work experience
 ======
 * 2016-2018: Algorithm Engineer
   * JD Logistics, JD.com
-
 * 2020 Summer: Research Assistant
   * University of Leicester & Astrosat
+  -->
 
   
 Skills
 ======
 * Programming Language
-  * Python, C/C++, CUDA, MATLAB, JAVA, SQL
+  * Python, C/C++, CUDA, JAVA, SQL
 * Frameworks
   * PyTorch, Tensorflow/Keras, OpenCV, Point Cloud Library, Git
 * Language
   * Mandarin, English
   
-<!---  
+
 Professional Service
 ======
 * Reviewer of:
@@ -42,4 +43,4 @@ Professional Service
 * Workshop Organizer:
   * 1st Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence (Leicester, 12th Jun 2019,)
   * Winter Seminar on Data Science (Leicester, 11th Dec 2019)
--->
+
