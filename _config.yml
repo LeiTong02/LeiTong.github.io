@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhihua Liu"
+title                    : "Lei Tong"
 title_separator          : "-"
-name                     : &name "Zhihua Liu"
+name                     : &name "Lei Tong"
 description              : &description "PhD Student at University of Leicester"
-url                      : https://zhihualiued.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leitong02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhihualiued.github.io"
+repository               : "leitong02.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhihua Liu"
-  avatar           : "zhihua_liu_icon.jpg"
-  bio              : "PhD student at Unviersity of Leicester. Focus on machine learning and computer vision."
+  name             : "Lei Tong"
+  avatar           : "lei.jpeg"
+  bio              : "PhD student at Unviersity of Leicester. Focus on machine learning, computer vision, biomedical image analysis."
   location         : "Leicester, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?user=je2KXVYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Fr0l4i4AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lei_Tong10"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhihuaLiuEd"
+  github           : "LeiTong02"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%E7%A3%8A-%E7%AB%A5-1a13a8196/?originalSubdomain=uk"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Zhihua_L"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
