@@ -10,9 +10,9 @@ redirect_from:
 
 About Me
 ======
-Greetings! My name is Zhihua Liu (Chinese: 刘志华). I am currently a Ph.D. student supervised by [Prof. Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou) at the [Biomedical Image Processing Lab (BIPL)](https://sites.google.com/site/huiyujoe/) in the School of Informatics, University of Leicester. I am funded by the Graduate Teaching Assistantship of School of Informatics, College of Science and Engineering.
+Greetings! I am Lei Tong (Chinese: 童磊). I am currently a Ph.D. student supervised by [Prof. Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou) at the [Biomedical Image Processing Lab (BIPL)](https://sites.google.com/site/huiyujoe/) in the School of Informatics, University of Leicester. I am funded by the Graduate Teaching Assistantship of College of Science and Engineering, University of Leicester and the Studentship of AstraZeneca Cambridge.
 
-Previously, I served as an algorithm engineer in JD Logistics, JD.com. I received my M.Sc. in Artificial Intelligence from the University of Edinburgh in 2016, my B.Eng. in Internet of Things from University of Science and Technology Beijing in 2015. I spent my undergraduate final year at the School of Computing  in University of Dundee, supervised by [Prof. Stephen McKenna](http://staff.computing.dundee.ac.uk/stephen/), [Dr. Sebastian Stein](https://www.gla.ac.uk/schools/computing/staff/sebastianstein/) and [Prof. Jianguo Zhang](http://faculty.sustech.edu.cn/zhangjg/). 
+Previously, I received my M.Phil. in Computer Science from the University of Leicester in 2020, my B.S.c. in Computer Science from Zhejiang University, Ningbo Institute of Technology in 2017. I spent my undergraduate final year at the School of Electronics, Electrical Engineering and Computer Science in Queen's University Belfast. 
 
-My research is focusing on computer vision and machine learning, especially in medical image analysis, unsupervised learning, deep learning.
+My research is mainly focusing on computer vision and machine learning, especially in biomedical image analysis, open set learning.
 
